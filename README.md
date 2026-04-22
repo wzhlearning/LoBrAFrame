@@ -6,6 +6,15 @@ Our paper titled *A Unified fNIRS Classification Framework Informed by Local Bra
 
 I'm currently in the process of transferring the WG dataset from an old device to a new one, so please give me a little time. The MATLAB processing script for the WG dataset will be released at a later time.
 
+🌟 Our other work may also be useful to you：
+
+✅ ***Rethinking Delayed Hemodynamic Responses for fNIRS Classification*** (https://ieeexplore.ieee.org/document/10311392/, GitHub: https://github.com/wzhlearning/fNIRSNet).
+
+✅ ***Transformer Model for Functional Near-Infrared Spectroscopy Classification*** (https://ieeexplore.ieee.org/document/9670659), GitHub: https://github.com/wzhlearning/fNIRS-Transformer).
+
+✅ ***A General and Scalable Vision Framework for Functional Near-Infrared Spectroscopy Classification*** ( https://ieeexplore.ieee.org/abstract/document/9828508).
+
+
 ## Abstract
 Recent studies have focused on task-specific and neuroscience-agnostic fNIRS classification models rather than a unified neuroscience-informed framework. We propose ***LoBrAFrame***, a unified, neuroscience-informed fNIRS classification framework that leverages local brain activation patterns through a shared weight mechanism. Within this framework, researchers can easily enhance classification performance using simple or off-the-shelf methods, without redesigning complex models. To instantiate a concrete model, we introduce Mamba, a state space model, into the fNIRS domain and propose ***LoBrAMamba***. Our work will inspire interest in neuroscience-informed fNIRS frameworks.
 
@@ -114,7 +123,7 @@ doi     = {10.1109/TII.2025.3632147}
 ```
 
 
-Our other works may also be beneficial to you, please consider citing them. 
+🌟 Our other works may also be beneficial to you, please consider citing them. 
 
 
 https://ieeexplore.ieee.org/document/10311392
