@@ -11,7 +11,7 @@ Our paper titled *A Unified fNIRS Classification Framework Informed by Local Bra
 
 ✅ ***Rethinking Delayed Hemodynamic Responses for fNIRS Classification*** (https://ieeexplore.ieee.org/document/10311392/, GitHub: https://github.com/wzhlearning/fNIRSNet).
 
-✅ ***Transformer Model for Functional Near-Infrared Spectroscopy Classification*** (https://ieeexplore.ieee.org/document/9670659), GitHub: https://github.com/wzhlearning/fNIRS-Transformer).
+✅ ***Transformer Model for Functional Near-Infrared Spectroscopy Classification*** (https://ieeexplore.ieee.org/document/9670659, GitHub: https://github.com/wzhlearning/fNIRS-Transformer).
 
 ✅ ***A General and Scalable Vision Framework for Functional Near-Infrared Spectroscopy Classification*** ( https://ieeexplore.ieee.org/abstract/document/9828508).
 
@@ -133,7 +133,7 @@ https://ieeexplore.ieee.org/document/11522669
 https://github.com/wzhlearning/fNIRS4D
 
 ```
-@ARTICLE{wang2026fNIRS4D,
+@ARTICLE{Wang2026fNIRS4D,
 author  = {Wang, Zenghui and Zhu, Delv and Zhang, Jun and Xiao, Guobao and Du, Songlin},
 journal = {IEEE Transactions on Instrumentation and Measurement}, 
 title   = {Domain Knowledge Fused State Space Model for fNIRS-Based Brain–Computer Interfaces}, 
