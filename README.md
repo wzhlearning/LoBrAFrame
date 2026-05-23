@@ -4,7 +4,6 @@
 
 Our paper titled *A Unified fNIRS Classification Framework Informed by Local Brain Activation Patterns* has been accepted by IEEE Transactions on Industrial Informatics ([https://ieeexplore.ieee.org/document/9670659](https://ieeexplore.ieee.org/document/11279989)). 
 
-I'm currently in the process of transferring the WG dataset from an old device to a new one, so please give me a little time. The MATLAB processing script for the WG dataset will be released at a later time.
 
 🌟 Our other work may also be useful to you：
 
@@ -56,7 +55,7 @@ No special requirements exist for other Python libraries needed for operation.
 Use the .mat files provided in the ***scripts*** folder to preprocess the dataset. You need to download the BBCI library from the GitHub link. 
 
 
-The ***scripts*** for MA and UFFT originate from our previous work (fNIRSNet: https://ieeexplore.ieee.org/document/10311392). The GitHub link is https://github.com/wzhlearning/fNIRSNet. We will add a new WG dataset preprocessing .mat file to the LoBrAFrame repository.
+The ***scripts*** for MA and UFFT originate from our previous work (fNIRSNet: https://ieeexplore.ieee.org/document/10311392). The GitHub link is https://github.com/wzhlearning/fNIRSNet. 
 
 
 ### 3. Training
