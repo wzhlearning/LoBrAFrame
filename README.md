@@ -6,6 +6,7 @@ Our paper titled *A Unified fNIRS Classification Framework Informed by Local Bra
 
 
 🌟 Our other work may also be useful to you：
+✅ 🆕 🎯 ***Domain Knowledge Fused State Space Model for fNIRS-Based Brain–Computer Interfaces*** (https://ieeexplore.ieee.org/document/11522669, https://github.com/wzhlearning/fNIRS4D). 
 
 ✅ ***Rethinking Delayed Hemodynamic Responses for fNIRS Classification*** (https://ieeexplore.ieee.org/document/10311392/, GitHub: https://github.com/wzhlearning/fNIRSNet).
 
@@ -125,6 +126,23 @@ doi     = {10.1109/TII.2025.3632147}
 🌟 Our other works may also be beneficial to you, please consider citing them. 
 
 
+https://ieeexplore.ieee.org/document/11522669
+
+
+https://github.com/wzhlearning/fNIRS4D
+
+```
+@ARTICLE{wang2026fNIRS4D,
+author  = {Wang, Zenghui and Zhu, Delv and Zhang, Jun and Xiao, Guobao and Du, Songlin},
+journal = {IEEE Transactions on Instrumentation and Measurement}, 
+title   = {Domain Knowledge Fused State Space Model for fNIRS-Based Brain–Computer Interfaces}, 
+year    = {2026},
+volume  = {75},
+number  = {},
+pages   = {4008016-4008016},
+doi     = {10.1109/TIM.2026.3693454}}
+```
+
 https://ieeexplore.ieee.org/document/10311392
 
 
@@ -172,4 +190,6 @@ volume  = {30},
 number  = {},
 pages   = {1982-1991},
 doi     = {10.1109/TNSRE.2022.3190431}}
+```
+
 ```
